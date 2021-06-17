@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Piotrek/CLionProjects/Graffff/Graf.cpp
+Graf.h
+C:/Users/Piotrek/CLionProjects/Graffff/Graf.h
+
+C:/Users/Piotrek/CLionProjects/Graffff/Graf.h
+vector
+-
+random
+-
+iostream
+-
+fstream
+-
+
+C:/Users/Piotrek/CLionProjects/Graffff/main.cpp
+iostream
+-
+Graf.h
+C:/Users/Piotrek/CLionProjects/Graffff/Graf.h
+chrono
+-
+
