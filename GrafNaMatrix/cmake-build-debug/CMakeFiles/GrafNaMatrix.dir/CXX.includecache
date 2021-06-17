@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Piotrek/CLionProjects/GrafNaMatrix/GrafNaM.h
+iostream
+-
+random
+-
+vector
+-
+fstream
+-
+
+C:/Users/Piotrek/CLionProjects/GrafNaMatrix/main.cpp
+iostream
+-
+chrono
+-
+GrafNaM.h
+C:/Users/Piotrek/CLionProjects/GrafNaMatrix/GrafNaM.h
+
